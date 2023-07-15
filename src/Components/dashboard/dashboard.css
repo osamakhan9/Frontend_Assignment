@@ -1,0 +1,41 @@
+.navbar {
+  height: 50px;
+  width: 1536px;
+  background-color: teal;
+  color: white;
+  padding-left: 650px;
+  font-weight: 600;
+  
+ 
+}
+
+.mainContent{
+  margin: 0px;
+  height: 910px !important;
+  width: 100%;
+   
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  margin-left: 300px;
+  display: block;
+  color: #f5f3f3;
+  text-align: center;
+  padding: 14px;  
+  text-decoration: none;
+}
+
+li a:hover {
+  color: black;
+}
